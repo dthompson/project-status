@@ -2,8 +2,8 @@
 published: true
 layout: post
 title: "Welcome to Jekyll!"
-date: 2013-05-16T11:43:09.000Z
-categories: jekyll update
+date: "2013-05-16T11:43:09.000Z"
+categories: projectb
 
 ---
 
