@@ -1,8 +1,10 @@
 ---
+published: true
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-05-16 11:43:09
+title: "Welcome to Jekyll!"
+date: 2013-05-16T11:43:09.000Z
 categories: jekyll update
+
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
